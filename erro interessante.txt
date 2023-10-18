@@ -1,0 +1,36 @@
+classeA{
+    background-color: lightblue;
+}
+
+classeB {
+    background-color: lightgreen;
+
+}
+
+classeC{
+    background-image: url("images/portal\ background.jpg");
+
+}
+
+classeD{
+
+}
+
+classeE{
+
+}
+
+classeF{
+
+}
+
+classeG{
+    
+}
+
+
+.classeC{
+    background-image: url("images/gif.gif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}

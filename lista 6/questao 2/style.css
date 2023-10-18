@@ -1,0 +1,45 @@
+.classeA{
+    background-color: lightblue;
+}
+
+.classeB {
+    background-color: lightgreen;
+
+}
+
+.classeC{
+    background-image: url("images/gif.gif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.classeD{
+    background-image: url("images/gif.gif");
+    background-repeat: repeat-y;
+    background-size: 100%;
+
+}
+
+a. Cor de fundo de uma página azul claro
+        b. Cor de fundo de um parágrafo em verde claro
+        c. Colocar uma imagem de fundo que permita a repetição em qualquer estilo e que não acompanhe o
+        deslocamento da página
+        d. Colocar uma imagem de fundo e repeti-la na vertical
+        e. Colocar uma imagem de fundo e não repeti-la
+        f. Colocar uma imagem de fundo sem repeti-la e centralizada
+        g. Formatar o fundo de uma página na cor amarela, uma figura de fundo, sem repetição, centralizada e que
+        acompanhe o deslocamento da página
+        Ao final crie uma página HTML com vários elementos (cabeçalho ou parágrafos) para testar cada uma das regras
+        acima.
+
+.classeE{
+
+}
+
+.classeF{
+
+}
+
+.classeG{
+    
+}
